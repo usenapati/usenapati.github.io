@@ -4,8 +4,8 @@
   <url>
     <loc>https://hugo-profile.netlify.app/categories/</loc>
   </url><url>
-    <loc>https://hugo-profile.netlify.app/</loc>
-  </url><url>
     <loc>https://hugo-profile.netlify.app/tags/</loc>
+  </url><url>
+    <loc>https://hugo-profile.netlify.app/</loc>
   </url>
 </urlset>
