@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Udayan Senapati</title>
-    <link>https://hugo-profile.netlify.app/</link>
+    <link>https://usenapati.github.io/</link>
     <description>Recent content on Udayan Senapati</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://hugo-profile.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://usenapati.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
