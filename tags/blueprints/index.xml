@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blueprints on Udayan Senapati</title>
+    <link>https://usenapati.github.io/tags/blueprints/</link>
+    <description>Recent content in Blueprints on Udayan Senapati</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Apr 2022 14:44:10 -0500</lastBuildDate><atom:link href="https://usenapati.github.io/tags/blueprints/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Transfusion</title>
+      <link>https://usenapati.github.io/games/transfusion/</link>
+      <pubDate>Tue, 26 Apr 2022 14:44:10 -0500</pubDate>
+      
+      <guid>https://usenapati.github.io/games/transfusion/</guid>
+      <description>Transfusion is a VR sword-fighting action game about violence. It takes place in a brutal alien world inspired by a fusion of Aztec and Roman cultures. You play as a prisoner who has to earn their freedom by slaying wave after wave of enemies in gladiatorial combat, as well as utilizing the gifts of a bloodthirsty deity. Along the way, you uncover a story that explores themes of violence, identity and sacrifice.</description>
+    </item>
+    
+  </channel>
+</rss>

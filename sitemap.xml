@@ -2,10 +2,60 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://usenapati.github.io/categories/</loc>
+    <loc>https://usenapati.github.io/tags/active-development/</loc>
+    <lastmod>2022-04-26T14:44:10-05:00</lastmod>
+  </url><url>
+    <loc>https://usenapati.github.io/tags/blueprints/</loc>
+    <lastmod>2022-04-26T14:44:10-05:00</lastmod>
+  </url><url>
+    <loc>https://usenapati.github.io/games/</loc>
+    <lastmod>2022-04-26T14:44:10-05:00</lastmod>
+  </url><url>
+    <loc>https://usenapati.github.io/tags/steam/</loc>
+    <lastmod>2022-04-26T14:44:10-05:00</lastmod>
   </url><url>
     <loc>https://usenapati.github.io/tags/</loc>
+    <lastmod>2022-04-26T14:44:10-05:00</lastmod>
+  </url><url>
+    <loc>https://usenapati.github.io/games/transfusion/</loc>
+    <lastmod>2022-04-26T14:44:10-05:00</lastmod>
   </url><url>
     <loc>https://usenapati.github.io/</loc>
+    <lastmod>2022-04-26T14:44:10-05:00</lastmod>
+  </url><url>
+    <loc>https://usenapati.github.io/tags/unreal-engine/</loc>
+    <lastmod>2022-04-26T14:44:10-05:00</lastmod>
+  </url><url>
+    <loc>https://usenapati.github.io/tags/vr/</loc>
+    <lastmod>2022-04-26T14:44:10-05:00</lastmod>
+  </url><url>
+    <loc>https://usenapati.github.io/tags/windows/</loc>
+    <lastmod>2022-04-26T14:44:10-05:00</lastmod>
+  </url><url>
+    <loc>https://usenapati.github.io/games/c&#43;&#43;gameengine/</loc>
+    <lastmod>2021-04-03T22:41:10+05:30</lastmod>
+  </url><url>
+    <loc>https://usenapati.github.io/games/clonewars/</loc>
+    <lastmod>2021-04-03T22:41:10+05:30</lastmod>
+  </url><url>
+    <loc>https://usenapati.github.io/tags/example/</loc>
+    <lastmod>2021-04-03T22:41:10+05:30</lastmod>
+  </url><url>
+    <loc>https://usenapati.github.io/games/galaga3d/</loc>
+    <lastmod>2021-04-03T22:41:10+05:30</lastmod>
+  </url><url>
+    <loc>https://usenapati.github.io/games/nekomancy/</loc>
+    <lastmod>2021-04-03T22:41:10+05:30</lastmod>
+  </url><url>
+    <loc>https://usenapati.github.io/tags/placeholder-text/</loc>
+    <lastmod>2021-04-03T22:41:10+05:30</lastmod>
+  </url><url>
+    <loc>https://usenapati.github.io/tags/sample/</loc>
+    <lastmod>2021-04-03T22:41:10+05:30</lastmod>
+  </url><url>
+    <loc>https://usenapati.github.io/games/mechamania/</loc>
+    <lastmod>2021-04-03T22:41:10+05:30</lastmod>
+  </url><url>
+    <loc>https://usenapati.github.io/categories/</loc>
   </url>
 </urlset>
