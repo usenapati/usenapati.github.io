@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tower Defense on Udayan Senapati</title>
+    <link>https://usenapati.github.io/tags/tower-defense/</link>
+    <description>Recent content in Tower Defense on Udayan Senapati</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Jun 2023 14:44:10 -0400</lastBuildDate><atom:link href="https://usenapati.github.io/tags/tower-defense/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CLONE WARS Tabletop Tower Defense</title>
+      <link>https://usenapati.github.io/games/clonewars/</link>
+      <pubDate>Wed, 07 Jun 2023 14:44:10 -0400</pubDate>
+      
+      <guid>https://usenapati.github.io/games/clonewars/</guid>
+      <description>CLONE WARS is a AR Tower Defense Game based in the Star Wars universe. The Player scans a 3D space, then they can add towers and enemy spawners. Each round, the towers must defend the player’s ship from waves of enemies. The player can use points earned each round to buy more towers.
+The game was originally a friend&amp;rsquo;s school project that grew into a personal project with a team of four.</description>
+    </item>
+    
+  </channel>
+</rss>

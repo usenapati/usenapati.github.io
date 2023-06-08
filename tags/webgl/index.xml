@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WebGL on Udayan Senapati</title>
+    <link>https://usenapati.github.io/tags/webgl/</link>
+    <description>Recent content in WebGL on Udayan Senapati</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Jun 2023 17:21:10 -0400</lastBuildDate><atom:link href="https://usenapati.github.io/tags/webgl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Galaga3D</title>
+      <link>https://usenapati.github.io/games/galaga3d/</link>
+      <pubDate>Wed, 07 Jun 2023 17:21:10 -0400</pubDate>
+      
+      <guid>https://usenapati.github.io/games/galaga3d/</guid>
+      <description>Galaga3D is a 3D Space Shooter Game based off of the original Galaga arcade game. Fight and evade countless waves of enemies using your blasters or lasers and try to beat your own high scores.
+The game was developed with a team of three during the VGDC 2022 Spring Jam, where the theme was recycle. The game was developed using Unity and all game models were created using Blender.
+The team included:</description>
+    </item>
+    
+    <item>
+      <title>Nekomancer</title>
+      <link>https://usenapati.github.io/games/nekomancer/</link>
+      <pubDate>Wed, 07 Jun 2023 14:44:10 -0400</pubDate>
+      
+      <guid>https://usenapati.github.io/games/nekomancer/</guid>
+      <description>Nekomancer is a 3D platformer whre you play as a cat, who was raised from the dead, and now have to search for ingredients to make a cure for your zombification. Throughout the game, you collect ingredients to make potions. The potions grant different powers, including super speed, static cling, or elasticity.
+Nekomancer was developed with a team in a eight during the Red Storm and VGDC @ NCSU Game Jam, where the theme was zombie cats.</description>
+    </item>
+    
+  </channel>
+</rss>

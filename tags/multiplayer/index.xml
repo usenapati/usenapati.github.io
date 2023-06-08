@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multiplayer on Udayan Senapati</title>
+    <link>https://usenapati.github.io/tags/multiplayer/</link>
+    <description>Recent content in Multiplayer on Udayan Senapati</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 May 2023 17:10:10 -0400</lastBuildDate><atom:link href="https://usenapati.github.io/tags/multiplayer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mecha Mania</title>
+      <link>https://usenapati.github.io/games/mechamania/</link>
+      <pubDate>Sat, 27 May 2023 17:10:10 -0400</pubDate>
+      
+      <guid>https://usenapati.github.io/games/mechamania/</guid>
+      <description>Mecha Mania is a multiplayer first-person shooter inspired by Titanfall 2 and the Gundam franchise. The game is being developed in Unreal Engine 5 and will be available for Windows. Compete in a 3v3 team deathmatch where you must gather mech parts and obliterate the enemy team with your completed mech. Throughout the arena, you&amp;rsquo;ll have an arsenal of weapons and tools to help you stop the enemy team. Use your movement abilities, including wallrunning, sliding, and climbing, to traverse your environment and outmaneuver your enemies.</description>
+    </item>
+    
+  </channel>
+</rss>

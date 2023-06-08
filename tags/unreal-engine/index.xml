@@ -6,11 +6,20 @@
     <description>Recent content in Unreal Engine on Udayan Senapati</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Apr 2022 14:44:10 -0500</lastBuildDate><atom:link href="https://usenapati.github.io/tags/unreal-engine/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 May 2023 17:10:10 -0400</lastBuildDate><atom:link href="https://usenapati.github.io/tags/unreal-engine/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mecha Mania</title>
+      <link>https://usenapati.github.io/games/mechamania/</link>
+      <pubDate>Sat, 27 May 2023 17:10:10 -0400</pubDate>
+      
+      <guid>https://usenapati.github.io/games/mechamania/</guid>
+      <description>Mecha Mania is a multiplayer first-person shooter inspired by Titanfall 2 and the Gundam franchise. The game is being developed in Unreal Engine 5 and will be available for Windows. Compete in a 3v3 team deathmatch where you must gather mech parts and obliterate the enemy team with your completed mech. Throughout the arena, you&amp;rsquo;ll have an arsenal of weapons and tools to help you stop the enemy team. Use your movement abilities, including wallrunning, sliding, and climbing, to traverse your environment and outmaneuver your enemies.</description>
+    </item>
+    
     <item>
       <title>Transfusion</title>
       <link>https://usenapati.github.io/games/transfusion/</link>
-      <pubDate>Tue, 26 Apr 2022 14:44:10 -0500</pubDate>
+      <pubDate>Wed, 26 Apr 2023 14:44:10 -0400</pubDate>
       
       <guid>https://usenapati.github.io/games/transfusion/</guid>
       <description>Transfusion is a VR sword-fighting action game about violence. It takes place in a brutal alien world inspired by a fusion of Aztec and Roman cultures. You play as a prisoner who has to earn their freedom by slaying wave after wave of enemies in gladiatorial combat, as well as utilizing the gifts of a bloodthirsty deity. Along the way, you uncover a story that explores themes of violence, identity and sacrifice.</description>
